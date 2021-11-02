@@ -152,6 +152,15 @@
   },
   {
     "ModuleName": "ページ2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YasukoTakura",
+      "Email": "yasuko.takura@grapecity.com"
+    },
+    "LockDateTime": "2021-11-02T13:51:56.8030979+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ2.json"
+    ]
   }
 ]
