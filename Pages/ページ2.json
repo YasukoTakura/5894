@@ -1,0 +1,154 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "4,4": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "テーブル1",
+        "RowIndex": 4,
+        "ColumnIndex": 4,
+        "ColumnCount": 18,
+        "RowCount": 7,
+        "AllowEditInListview": true,
+        "AllowAddNewRow": true,
+        "ShowDeleteButton": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "5,4": {
+      "BindingInfo": {
+        "TableName": "テーブル1",
+        "ColumnName": "ID"
+      }
+    },
+    "5,6": {
+      "BindingInfo": {
+        "TableName": "テーブル1",
+        "ColumnName": "商品CD"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "DarkGray",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        }
+      ]
+    },
+    "CellStyles": {
+      "4,4": 0,
+      "4,5": 1,
+      "4,6": 1,
+      "4,7": 1,
+      "4,8": 1,
+      "4,9": 1,
+      "4,10": 1,
+      "4,11": 1,
+      "4,12": 1,
+      "4,13": 1,
+      "4,14": 1,
+      "4,15": 1,
+      "4,16": 1,
+      "4,17": 1,
+      "4,18": 1,
+      "4,19": 1,
+      "4,20": 1,
+      "4,21": 2,
+      "5,4": 3,
+      "5,21": 4,
+      "6,4": 3,
+      "6,21": 4,
+      "7,4": 3,
+      "7,21": 4,
+      "8,4": 3,
+      "8,21": 4,
+      "9,4": 3,
+      "9,21": 4,
+      "10,4": 5,
+      "10,5": 6,
+      "10,6": 6,
+      "10,7": 6,
+      "10,8": 6,
+      "10,9": 6,
+      "10,10": 6,
+      "10,11": 6,
+      "10,12": 6,
+      "10,13": 6,
+      "10,14": 6,
+      "10,15": 6,
+      "10,16": 6,
+      "10,17": 6,
+      "10,18": 6,
+      "10,19": 6,
+      "10,20": 6,
+      "10,21": 7
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "6,4,5,18",
+    "5,4,1,2",
+    "4,4,1,2",
+    "5,6,1,5",
+    "4,6,1,5"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
+    "AuthorizeInfo": {
+      "VisitMode": 3
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}

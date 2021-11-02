@@ -105,18 +105,7 @@
   },
   {
     "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-11-02T13:47:38.819058+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "TableSet",
-      "ForguncyDB.sqlite3",
-      "DataConnectionSet"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "c0399537-e72c-407d-82a2-ce31c68456a2",
@@ -152,12 +141,6 @@
   },
   {
     "ModuleName": "ページ2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-11-02T13:48:18.1922967+09:00",
     "ModuleType": 1
   }
 ]
